@@ -1,5 +1,5 @@
-FROM nginx
-MAINTAINER MarvAmBass
+FROM nginx:1.21.0-alpine
+MAINTAINER WabombaBakar
 
 ENV LANG C.UTF-8
 
